@@ -15,9 +15,9 @@ library latlngconv;
 
 import 'dart:core';
 import 'dart:math' as Math;
-import 'package:latlong/latlong.dart';
+import 'package:latlong2/latlong.dart';
 
-export 'package:latlong/latlong.dart';
+export 'package:latlong2/latlong.dart';
 
 
 const PI = 3.14159265358979324;
